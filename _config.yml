@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://MarcusJensen.github.io
+title: mj
+tagline: An occasional tech rant
+description: This will be a place to express a thought or two of mine each month, on the latest stuff I can find on the net regarding web technologies.
+paginate: 5
